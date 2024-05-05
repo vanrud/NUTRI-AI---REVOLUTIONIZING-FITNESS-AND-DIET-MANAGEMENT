@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749503706912",
+    "project_id": "meal-p2mj0v",
+    "storage_bucket": "meal-p2mj0v.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749503706912:android:67abb75461730a43354945",
+        "android_client_info": {
+          "package_name": "com.mealplanner.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFn9IiJx7sP96D7AhgyRizHNz-ZGGu-qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749503706912:android:87a23fc56210c20f354945",
+        "android_client_info": {
+          "package_name": "com.nutriai.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFn9IiJx7sP96D7AhgyRizHNz-ZGGu-qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
